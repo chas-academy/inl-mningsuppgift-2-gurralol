@@ -3,7 +3,7 @@
 
 // This is where you add the two functions
 float fahrenheit_to_celsius(float f) {
-    float c = ((f - 32) * 5) / 2;
+    float c = ((f - 32) * 5) / 9;
     return c;
 }
 
